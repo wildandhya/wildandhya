@@ -15,7 +15,7 @@ Hi, I'm Wildan Dhya, Fullstack Developer form Indonesia
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wwldan?style=social) ![image](https://img.shields.io/badge/LinkedIn-0077B5/username=wildandhya?astyle=for-the-badge&logo=linkedin&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wildandhya.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wildandhya.22)
 
 
 
