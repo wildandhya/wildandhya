@@ -10,7 +10,7 @@ Hi, I'm Wildan Dhya, Fullstack Developer form Indonesia
 
 
 
-![wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandhya&show_icons=true&theme=tokyonight)
+![wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandhya&show_icons=true&theme=midnight-purple)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wwldan?style=social) ![image](https://img.shields.io/badge/LinkedIn-0077B5/username=wildandhya?astyle=for-the-badge&logo=linkedin&logoColor=white)
