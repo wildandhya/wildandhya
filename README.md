@@ -4,7 +4,7 @@ I'm Fullstack Developer, I'm form Indonesia, living in Jakarta
 - 📫 How to reach me:
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/wwldan?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/wwldan?style=social) https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 
