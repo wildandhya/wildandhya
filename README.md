@@ -2,7 +2,6 @@
 Hi, I'm Wildan Dhya, Fullstack Developer form Indonesia 
 - 🔭 I’m currently working as Backend Developer
 - 💻 I love writing code and learn anythings about it
-- 📚 I’m currently learning about Blockchain
 - 📫 How to reach me: Wildandhya15@gmail.com
 
 ### Languages & Frameworks 
