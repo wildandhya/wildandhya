@@ -10,7 +10,6 @@ Hi, I'm Wildan Dhya, Fullstack Developer form Indonesia
 
 
 ###### Find me on : ![image](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwwldan) [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&url=https://www.linkedin.com/in/wildandhya/)](https://www.linkedin.com/in/wildandhya/) 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wildandhya.22)
 
 
