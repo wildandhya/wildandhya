@@ -1,10 +1,8 @@
-### Hi there 👋
+# Hi, I'm Wildan Dhya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 🔭 I’m currently working on Backend Developer
 - 📫 How to reach me: instagram @wildan.dhya
-<!--
-**wildandhya/wildandhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandhya&show_icons=true&theme=radical)
 
 
--->
