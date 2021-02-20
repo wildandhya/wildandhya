@@ -10,7 +10,7 @@ Hi, I'm Wildan Dhya, Fullstack Developer form Indonesia
 
 
 ### Github Stats
-![wildandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandhya&show_icons=true&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandhya&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![wildandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildandhya&show_icons=true&theme=midnight-purple&line_height=20) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandhya&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![image](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwwldan) [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&url=https://www.linkedin.com/in/wildandhya/)](https://www.linkedin.com/in/wildandhya/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=wildandhya.22)
