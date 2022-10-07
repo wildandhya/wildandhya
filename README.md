@@ -1,5 +1,5 @@
 # Hi, I'm Wildan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi, I'm Wildan Dhya, Fullstack Developer form Indonesia 
+Hi, I'm Wildan Dhya, Fullstack Developer from Indonesia 
 - 🔭 I’m currently working as Backend Developer
 - 💻 I love writing code and learn anythings about it
 - 📫 How to reach me: Wildandhya15@gmail.com
