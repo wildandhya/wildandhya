@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=Try%2C%20Fail%2C%20Retry&author=unknown&type=vertical&theme=dark&border=true" alt="Readme Quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=Try%2C%20Fail%2C%20Retry&author=unknown&type=vertical&theme=dark" alt="Readme Quotes">
   </a>
 </div>
 
