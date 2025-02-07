@@ -1,7 +1,5 @@
 # Hi there, I'm Wildan Dhya 👋 
 
-[![visitor](https://komarev.com/ghpvc/?username=wildandhya&color=blue&label=visitor)](https://github.com/wildandhya)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2044%20mins-blue)
 
