@@ -22,3 +22,4 @@ jobs:
           SHOW_SHORT_INFO: False
           DEBUG_LOGGING: False
           SHOW_LANGUAGE_PER_REPO: False
+          TIMELINE: False
