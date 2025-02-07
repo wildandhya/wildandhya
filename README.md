@@ -1,5 +1,7 @@
 # Hi there, I'm Wildan Dhya 👋 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Try%2C%20Fail%2C%20Retry&author=unknown&type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2044%20mins-blue)
 
