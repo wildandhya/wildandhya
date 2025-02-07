@@ -42,8 +42,8 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandhya&layout=compact&theme=dracula)
+<!--## GitHub Stats-->
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildandhya&layout=compact&theme=dracula)-->
 
 
 
