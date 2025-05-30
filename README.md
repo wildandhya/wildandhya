@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -23,8 +23,8 @@
 
 ```text
 💬 Programming Languages: 
-HTTP Request             2 hrs 41 mins       █████████████████████░░░░   84.51 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+HTTP Request             2 hrs 33 mins       █████████████████████░░░░   83.87 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 
 
