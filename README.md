@@ -23,7 +23,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     6 mins              █████████████████████████   100.00 % 
 ```
 
 
