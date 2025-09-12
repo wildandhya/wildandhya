@@ -23,7 +23,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+sshconfig                1 min               █████████████████████████   100.00 % 
 ```
 
 
