@@ -9,23 +9,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-🌆 Daytime                284 commits         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-🌃 Evening                327 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌙 Night                  292 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
