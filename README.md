@@ -14,8 +14,6 @@
   </div>
 </div>
 
----
-
 
 <!--START_SECTION:blog-->
 ## 📝 Latest Blog Posts
@@ -53,6 +51,24 @@
 
 ---
 
-<div align="center">
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+🌆 Daytime                340 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                372 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
+🌙 Night                  302 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+conf                     25 mins             █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
+<div >
   <img src="https://komarev.com/ghpvc/?username=wildandhya&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
