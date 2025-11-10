@@ -18,8 +18,8 @@
 <!--START_SECTION:blog-->
 ## 📝 Latest Blog Posts
 
-- **[Cara Implementasi Idempotent dengan Go](https://wildandhya.pages.dev/post/idempotent/)** - *Aug 20, 2024*
-- **[Why Blog ?](https://wildandhya.pages.dev/post/why-blog/)** - *Aug 15, 2024*
+- **[Cara Implementasi Idempotent dengan Go](https://wildandhya.com/post/idempotent/)** - *Aug 20, 2024*
+- **[Why Blog ?](https://wildandhya.com/post/why-blog/)** - *Aug 15, 2024*
 
 [→ Read more posts](https://wildandhya.pages.dev)
 
@@ -30,11 +30,11 @@
 <!--START_SECTION:tils-->
 ## 💡 Today I Learned (TIL)
 
-- **[Subframe - Alternatif Figma yang Lebih Mudah](https://wildandhya.pages.dev/til/subframe-alternatif-figma-yang-lebih-mudah/)** - *Nov 08, 2025*
-- **[Mailpit - Testing Email Lokal](https://wildandhya.pages.dev/til/mailpit-testing-email-lokal/)** - *Nov 08, 2025*
-- **[Git Interactive Rebase untuk Clean History](https://wildandhya.pages.dev/til/git-rebase-interactive/)** - *Nov 04, 2024*
-- **[CSS Container Queries - Responsive pada Level Komponen](https://wildandhya.pages.dev/til/css-container-queries/)** - *Nov 03, 2024*
-- **[TypeScript satisfies Operator](https://wildandhya.pages.dev/til/typescript-satisfies/)** - *Nov 02, 2024*
+- **[Subframe - Alternatif Figma yang Lebih Mudah](https://wildandhya.com/til/subframe-alternatif-figma-yang-lebih-mudah/)** - *Nov 08, 2025*
+- **[Mailpit - Testing Email Lokal](https://wildandhya.com/til/mailpit-testing-email-lokal/)** - *Nov 08, 2025*
+- **[Git Interactive Rebase untuk Clean History](https://wildandhya.com/til/git-rebase-interactive/)** - *Nov 04, 2024*
+- **[CSS Container Queries - Responsive pada Level Komponen](https://wildandhya.com/til/css-container-queries/)** - *Nov 03, 2024*
+- **[TypeScript satisfies Operator](https://wildandhya.com/til/typescript-satisfies/)** - *Nov 02, 2024*
 
 [→ Explore all TILs](https://wildandhya.pages.dev)
 
