@@ -30,11 +30,11 @@
 <!--START_SECTION:tils-->
 ## 💡 Today I Learned (TIL)
 
+- **[Migrasi dari Stow ke Chezmoi](https://wildandhya.com/til/migrasi-dari-stow-ke-chezmoi/)** - *Nov 10, 2025*
 - **[Subframe - Alternatif Figma yang Lebih Mudah](https://wildandhya.com/til/subframe-alternatif-figma-yang-lebih-mudah/)** - *Nov 08, 2025*
 - **[Mailpit - Testing Email Lokal](https://wildandhya.com/til/mailpit-testing-email-lokal/)** - *Nov 08, 2025*
 - **[Git Interactive Rebase untuk Clean History](https://wildandhya.com/til/git-rebase-interactive/)** - *Nov 04, 2024*
 - **[CSS Container Queries - Responsive pada Level Komponen](https://wildandhya.com/til/css-container-queries/)** - *Nov 03, 2024*
-- **[TypeScript satisfies Operator](https://wildandhya.com/til/typescript-satisfies/)** - *Nov 02, 2024*
 
 [→ Explore all TILs](https://wildandhya.pages.dev)
 
