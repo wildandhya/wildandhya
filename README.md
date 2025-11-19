@@ -30,11 +30,11 @@
 <!--START_SECTION:tils-->
 ## 💡 Today I Learned (TIL)
 
+- **[Multiapp Runner dengan process-compose](https://wildandhya.com/til/multiapp-runner-dengan-process-compose/)** - *Nov 18, 2025*
+- **[Pindah ke Fish Shell Setelah Bertahun-tahun Pakai ZSH](https://wildandhya.com/til/pindah-ke-fish-shell-setelah-bertahun-tahun-pakai-zsh/)** - *Nov 18, 2025*
+- **[Mengelola Tmux Plugin dengan TPM (Tmux Plugin Manager)](https://wildandhya.com/til/mengelola-tmux-plugin-dengan-tpm-tmux-plugin-manager/)** - *Nov 18, 2025*
+- **[Setup Tmux](https://wildandhya.com/til/setup-tmux/)** - *Nov 18, 2025*
 - **[Migrasi dari Stow ke Chezmoi](https://wildandhya.com/til/migrasi-dari-stow-ke-chezmoi/)** - *Nov 10, 2025*
-- **[Subframe - Alternatif Figma yang Lebih Mudah](https://wildandhya.com/til/subframe-alternatif-figma-yang-lebih-mudah/)** - *Nov 08, 2025*
-- **[Mailpit - Testing Email Lokal](https://wildandhya.com/til/mailpit-testing-email-lokal/)** - *Nov 08, 2025*
-- **[Git Interactive Rebase untuk Clean History](https://wildandhya.com/til/git-rebase-interactive/)** - *Nov 04, 2024*
-- **[CSS Container Queries - Responsive pada Level Komponen](https://wildandhya.com/til/css-container-queries/)** - *Nov 03, 2024*
 
 [→ Explore all TILs](https://wildandhya.pages.dev)
 
