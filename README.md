@@ -18,8 +18,11 @@
 <!--START_SECTION:blog-->
 ## 📝 Latest Blog Posts
 
-- **[Cara Implementasi Idempotent dengan Go](https://wildandhya.com/post/idempotent/)** - *Aug 20, 2024*
-- **[Why Blog ?](https://wildandhya.com/post/why-blog/)** - *Aug 15, 2024*
+- **[Membuat CV dengan Typst](https://wildandhya.com/posts/membuat-cv-dengan-typst)** - *Nov 20, 2025*
+- **[Mengelola Tmux Plugin dengan TPM (Tmux Plugin Manager)](https://wildandhya.com/posts/mengelola-tmux-plugin-dengan-tpm)** - *Nov 18, 2025*
+- **[Multiapp Runner dengan process-compose](https://wildandhya.com/posts/multiapp-runner-dengan-process-compose)** - *Nov 18, 2025*
+- **[Pindah ke Fish Shell Setelah Bertahun-tahun Pakai ZSH](https://wildandhya.com/posts/pindah-ke-fish-shell)** - *Nov 18, 2025*
+- **[Setup Tmux](https://wildandhya.com/posts/setup-tmux)** - *Nov 18, 2025*
 
 [→ Read more posts](https://wildandhya.pages.dev)
 
@@ -30,11 +33,7 @@
 <!--START_SECTION:tils-->
 ## 💡 Today I Learned (TIL)
 
-- **[Membuat CV dengan Typst](https://wildandhya.com/til/membuat-cv-dengan-typst/)** - *Nov 20, 2025*
-- **[Multiapp Runner dengan process-compose](https://wildandhya.com/til/multiapp-runner-dengan-process-compose/)** - *Nov 18, 2025*
-- **[Pindah ke Fish Shell Setelah Bertahun-tahun Pakai ZSH](https://wildandhya.com/til/pindah-ke-fish-shell-setelah-bertahun-tahun-pakai-zsh/)** - *Nov 18, 2025*
-- **[Mengelola Tmux Plugin dengan TPM (Tmux Plugin Manager)](https://wildandhya.com/til/mengelola-tmux-plugin-dengan-tpm-tmux-plugin-manager/)** - *Nov 18, 2025*
-- **[Setup Tmux](https://wildandhya.com/til/setup-tmux/)** - *Nov 18, 2025*
+- **[TIL: Advanced TypeScript Conditional Types](https://wildandhya.com/posts/ts-conditional)** - *Jan 10, 2024*
 
 [→ Explore all TILs](https://wildandhya.pages.dev)
 
