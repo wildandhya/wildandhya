@@ -53,6 +53,27 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                696 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 Evening                623 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌙 Night                  490 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     1 hr 48 mins        █████████████░░░░░░░░░░░░   50.96 % 
+SQL                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+csharp                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+```
+
 
 <!--END_SECTION:waka-->
 <div >
