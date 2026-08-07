@@ -51,35 +51,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2011%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-🌆 Daytime                697 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌃 Evening                623 commits         ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌙 Night                  490 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-csharp                   22 mins             █████████████████████████   99.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 
 <!--END_SECTION:waka-->
