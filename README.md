@@ -51,7 +51,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,17 +69,33 @@
 
 ```text
 💬 Programming Languages: 
-csharp                   44 mins             ██████████████████░░░░░░░   72.71 % 
-TOML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-jsonc                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+csharp                   32 mins             ████████████░░░░░░░░░░░░░   46.38 % 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+TOML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+jsonc                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 mins (22.13%)
+
+✍️ 5 lines written by AI, 222 lines written by hand (2.2% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Gemini                   5 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 2.2% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 97.94% of changed lines were hand-edited
 ```
 
 
