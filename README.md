@@ -51,7 +51,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,17 +69,17 @@
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   38.16 % 
-Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-csharp                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+C#                       1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Markdown                 1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Other                    53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+csharp                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (71.98%)
+⏱ AI Coding Time: 3 hrs 25 mins (68.29%)
 
 ✍️ 248 lines written by AI, 222 lines written by hand (52.77% AI-written)
 
@@ -87,14 +87,14 @@ TOML                     13 mins             ██░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 27 AI Prompts
+🧠 5 AI Sessions, 36 AI Prompts
 
 Gemini                   290 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 52.77% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 45.08% of changed lines were hand-edited
 ```
 
