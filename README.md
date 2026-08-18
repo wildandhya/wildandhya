@@ -69,34 +69,34 @@
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Other                    1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-JSON                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-csharp                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+C#                       1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Other                    1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+csharp                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (72.79%)
+⏱ AI Coding Time: 4 hrs 8 mins (70.96%)
 
-✍️ 263 lines written by AI, 203 lines written by hand (56.44% AI-written)
+✍️ 264 lines written by AI, 203 lines written by hand (56.53% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 40 AI Prompts
+🧠 8 AI Sessions, 38 AI Prompts
 
-Gemini                   290 lines           ████████████████████████░   95.08 % 
-Opus                     15 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Gemini                   291 lines           ████████████████████████░   95.10 % 
+Opus                     15 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.44% of written lines came from AI
-📝 Concise Prompter — average 198 characters per prompt
+⚖️ Balanced with AI — 56.53% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 40.2% of changed lines were hand-edited
+🚀 High AI Trust — 43.33% of changed lines were hand-edited
 ```
 
 
