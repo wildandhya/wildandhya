@@ -69,33 +69,33 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.06 % 
-csharp                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-JSON                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-C#                       23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JSON                     1 hr 40 mins        █████████████░░░░░░░░░░░░   51.00 % 
+C#                       23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+csharp                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (56.54%)
+⏱ AI Coding Time: 52 mins (26.41%)
 
-✍️ 15 lines written by AI, 513 lines written by hand (2.84% AI-written)
+✍️ 15 lines written by AI, 553 lines written by hand (2.64% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 Opus                     15 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.84% of written lines came from AI
-📝 Concise Prompter — average 268 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.32% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.64% of written lines came from AI
+📄 Detailed Prompter — average 606 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 97.4% of changed lines were hand-edited
 ```
 
 
