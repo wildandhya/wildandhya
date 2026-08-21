@@ -69,33 +69,17 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 40 mins        █████████████░░░░░░░░░░░░   51.00 % 
-C#                       23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-csharp                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+JSON                     1 hr 37 mins        █████████████████░░░░░░░░   66.93 % 
+HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+csharp                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+shell script             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (26.41%)
-
-✍️ 15 lines written by AI, 553 lines written by hand (2.64% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 4 AI Prompts
-
-Opus                     15 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.64% of written lines came from AI
-📄 Detailed Prompter — average 606 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 97.4% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
