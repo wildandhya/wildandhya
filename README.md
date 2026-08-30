@@ -69,19 +69,19 @@
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.09 % 
-JSON                     2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
-TSQL                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-csharp                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-jsonc                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+C#                       3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
+JSON                     2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+TSQL                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+csharp                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+jsonc                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (59.2%)
+⏱ AI Coding Time: 4 hrs 17 mins (60.75%)
 
-✍️ 760 lines written by AI, 169 lines written by hand (81.81% AI-written)
+✍️ 760 lines written by AI, 166 lines written by hand (82.07% AI-written)
 
 🔤 437,690 Input Tokens, 83,577 Output Tokens
 
@@ -93,10 +93,10 @@ Opencode-Cli             688 lines           ███████████�
 Gemini                   72 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.81% of written lines came from AI
+🤖 AI-Driven — 82.07% of written lines came from AI
 📝 Concise Prompter — average 251 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.45% of changed lines were hand-edited
+🚀 High AI Trust — 18.19% of changed lines were hand-edited
 ```
 
 
