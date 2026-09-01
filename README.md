@@ -69,9 +69,9 @@
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.76 % 
-JSON                     2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.98 % 
-csharp                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+C#                       3 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.74 % 
+JSON                     2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
+csharp                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
@@ -79,7 +79,7 @@ jsonc                    8 mins              █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 2 mins (82.37%)
+⏱ AI Coding Time: 5 hrs 2 mins (82.34%)
 
 ✍️ 760 lines written by AI, 56 lines written by hand (93.14% AI-written)
 
