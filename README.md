@@ -69,35 +69,35 @@
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 48 mins       ███████████████░░░░░░░░░░   60.54 % 
-JSON                     2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-csharp                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+C#                       5 hrs 37 mins       ████████████████░░░░░░░░░   63.69 % 
+JSON                     1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+csharp                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 59 mins (88.9%)
+⏱ AI Coding Time: 7 hrs 44 mins (87.55%)
 
-✍️ 1,702 lines written by AI, 214 lines written by hand (88.83% AI-written)
+✍️ 1,630 lines written by AI, 214 lines written by hand (88.39% AI-written)
 
 🔤 3,452,400 Input Tokens, 516,493 Output Tokens
 
 💵 $367.45 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 117 AI Prompts
+🧠 36 AI Sessions, 98 AI Prompts
 
-M                        1,665 lines         ███████████████████████░░   92.29 % 
-Gemini                   139 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+M                        1,665 lines         ████████████████████████░   96.13 % 
+Gemini                   67 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.83% of written lines came from AI
-📝 Concise Prompter — average 440 characters per prompt
+🤖 AI-Driven — 88.39% of written lines came from AI
+📝 Concise Prompter — average 493 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.09% of changed lines were hand-edited
+🚀 High AI Trust — 11.5% of changed lines were hand-edited
 ```
 
 
