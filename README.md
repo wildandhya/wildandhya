@@ -69,35 +69,34 @@
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 37 mins       ████████████████░░░░░░░░░   63.69 % 
-JSON                     1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-csharp                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+C#                       5 hrs 22 mins       ████████████████░░░░░░░░░   62.63 % 
+JSON                     1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+csharp                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 44 mins (87.55%)
+⏱ AI Coding Time: 7 hrs 29 mins (87.19%)
 
-✍️ 1,630 lines written by AI, 214 lines written by hand (88.39% AI-written)
+✍️ 1,563 lines written by AI, 214 lines written by hand (87.96% AI-written)
 
 🔤 3,452,400 Input Tokens, 516,493 Output Tokens
 
 💵 $367.45 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 98 AI Prompts
+🧠 35 AI Sessions, 94 AI Prompts
 
-M                        1,665 lines         ████████████████████████░   96.13 % 
-Gemini                   67 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+M                        1,665 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.39% of written lines came from AI
-📝 Concise Prompter — average 493 characters per prompt
+🤖 AI-Driven — 87.96% of written lines came from AI
+📄 Detailed Prompter — average 511 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.5% of changed lines were hand-edited
+🚀 High AI Trust — 11.9% of changed lines were hand-edited
 ```
 
 
