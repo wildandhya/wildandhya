@@ -69,34 +69,13 @@
 
 ```text
 💬 Programming Languages: 
-C#                       10 mins             ████████████████░░░░░░░░░   64.42 % 
-Docker                   4 mins              ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-csharp                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (65.49%)
-
-✍️ 597 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 715,342 Input Tokens, 42,668 Output Tokens
-
-💵 $24.78 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-M                        677 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 19 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
